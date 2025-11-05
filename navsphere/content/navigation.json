@@ -6,7 +6,16 @@
       "icon": "FolderKanban",
       "description": "1111111111111",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1762308426339",
+          "title": "Google",
+          "href": "https://google.com",
+          "description": "访问 google.com",
+          "icon": "/assets/favicon_1762308442998.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "15ac692a-526c-412f-b15a-a403859ec5df",
