@@ -7,7 +7,16 @@
       "description": "1111111111111",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "15ac692a-526c-412f-b15a-a403859ec5df",
+          "title": "1-1111",
+          "icon": "Files",
+          "description": "1-111",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
